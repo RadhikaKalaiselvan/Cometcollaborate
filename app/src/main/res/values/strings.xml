@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Cometcollaborate</string>
+    <string-array name="Schools_name">
+        <item>Erik Jonsson School</item>
+        <item>Arts and Humanities</item>
+        <item>JSOM</item>
+        <item>Natural Sciences and Mathematics</item>
+
+    </string-array>
+
+
+
+    <string-array name="EJS">
+        <item>Gopal Gupta</item>
+        <item>Shyam Karrah</item>
+        <item>Ivor Page</item>
+        <item>Jey Veerasamy</item>
+    </string-array>
+
+    <string-array name="JSOM">
+        <item>William Cready</item>
+        <item>Van Dam</item>
+    </string-array>
+
+    <string-array name="AH">
+        <item>Paul Booker</item>
+        <item>Eric Carlson</item>
+    </string-array>
+
+    <string-array name="NSM">
+        <item>Barbara Curry</item>
+        <item>Bruce Novak</item>
+    </string-array>
+    <string-array name="classes">
+        <item>CS6360_001</item>
+        <item>CS5360_004</item>
+        <item>CS6360_003</item>
+        <item>CS4360_002</item>
+    </string-array>
+
+</resources>
